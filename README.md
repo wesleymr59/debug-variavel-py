@@ -1,5 +1,11 @@
-# debug-variavel-py
 
+# DEBUG DE VARIAVEIS
+
+Projeto criado com o intuito de facilitar o dabug de variavel em python
+
+## Uso/Exemplos
+
+```
 Exemplo de uso
 
 teste = [
@@ -46,3 +52,4 @@ retorno da função abaixo
 |            |                | '2010-12-17T23:32:45.095Z', 'updatedAt':                     |
 |            |                | '2010-12-18T23:32:45.095Z'}]                                 |
 +------------+----------------+--------------------------------------------------------------+
+```
