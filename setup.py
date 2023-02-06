@@ -18,5 +18,5 @@ setup(
     ],
     python_requires='>=3.8',
     install_requires=[],
-    dependency_links=['https://github.com/ItanuRomero/talk-in-code']
+    dependency_links=['https://github.com/wesleymr59/debug-variavel-py"']
 )
