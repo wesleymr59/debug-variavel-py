@@ -1,8 +1,10 @@
 import inspect
 import tabulate
+import sys
 
 
-def debug(*args,exitDebug):
+
+def debugTable(*args,exitDebug):
 
     # Busca o contexto de quem chamou a função debug:
     context = inspect.stack()[1][0]
